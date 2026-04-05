@@ -131,6 +131,14 @@ code {
   margin-top: 0.18rem;
 }
 
+.brand-logo {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 12px;
+  display: block;
+}
+
 .site-nav {
   display: flex;
   flex-wrap: wrap;
