@@ -1,0 +1,6 @@
+# Rename this file to app-ads.txt and place it at the website root.
+# Replace the publisher ID below with your real AdMob publisher ID.
+# Example format from Google AdMob:
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+
+google.com, pub-6685144739973952, DIRECT, f08c47fec0942fa0
